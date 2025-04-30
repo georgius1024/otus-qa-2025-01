@@ -3,3 +3,12 @@
 ## Feature 1
 
 Lorem ipsim lorem ipsim. More dscription
+
+
+## Feature 2 
+Started and finished
+
+## Options
+- 1
+- 2
+- 3
